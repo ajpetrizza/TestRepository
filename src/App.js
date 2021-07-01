@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          on dev branch
+          im doing a video feature
         </a>
       </header>
     </div>
